@@ -1,4 +1,4 @@
-## 📊 Executive Summary
+## 📊 Blinkit Analysis 
 
 This project showcases an **interactive sales analytics dashboard developed using Power BI** to analyze Blinkit’s retail performance across products, outlets, and customer behavior. The dashboard provides a centralized and intuitive view of business metrics, helping stakeholders monitor performance and uncover actionable insights.
 

@@ -1,45 +1,16 @@
-Blinkit Sales Analysis | SQL Server & Power BI
+## 📊 Executive Summary
 
-This project analyzes Blinkit’s sales performance using SQL Server for data processing and Power BI for dashboard development. The objective is to understand sales patterns, identify top-performing outlets, evaluate product categories, and generate insights that support data-driven decision-making.
+This project showcases an **interactive sales analytics dashboard developed using Power BI** to analyze Blinkit’s retail performance across products, outlets, and customer behavior. The dashboard provides a centralized and intuitive view of business metrics, helping stakeholders monitor performance and uncover actionable insights.
 
-🔹 Project Overview
+The analysis focuses on key business areas such as **sales performance, average sales value, customer ratings, item distribution, and outlet characteristics**. High-level **KPIs** offer a quick snapshot of overall business health, while detailed visualizations support deeper analysis.
 
-The raw dataset was imported into MS SQL Server, where initial data cleaning and validation were performed. SQL queries were used to check data quality, remove duplicates, handle missing values, and verify category consistency. Preliminary analysis such as total sales, outlet-wise revenue, and category-wise performance was also carried out using aggregation queries.
+Multiple analytical perspectives are covered in the dashboard:
+- **Outlet establishment trends** to understand sales growth over time
+- **Product and item-type analysis** to identify top-performing categories
+- **Fat content analysis** to study customer preference patterns
+- **Outlet size and location analysis** to compare performance across different store formats and tiers
+- **Outlet-type comparison** evaluating supermarkets and grocery stores based on sales, item count, ratings, and visibility
 
-After preparing the data, the cleaned tables were connected to Power BI for visualization. Power Query was used for additional transformations, and DAX was used to build dynamic KPIs such as Total Sales, Average Rating, Total Items, and Outlet Performance.
+The dashboard includes **interactive slicers and filters** that allow users to explore data by outlet location type, outlet size, and item type, enabling customized and focused analysis.
 
-🔹 Key Features
-
-SQL-based data cleaning & preprocessing
-
-Power Query transformations for modeling and shaping the dataset
-
-DAX measures for KPI calculation
-
-Interactive dashboard showing:
-
-Top/low-performing outlets
-
-Category-wise sales distribution
-
-Average rating trends
-
-Overall sales metrics and product mix
-
-🔹 Tools & Technologies
-
-SQL Server
-
-Power BI
-
-Power Query
-
-DAX
-
-Excel/CSV for initial dataset
-
-🔹 Outcome
-
-The analysis highlights actionable insights such as bestselling categories, underperforming items, outlet strengths, and customer preferences. The interactive dashboard allows users to explore trends and filter results based on product category, outlet type, and ratings.
-
-This project demonstrates practical skills in SQL-based data processing, data modeling, and business intelligence dashboard creation.
+Overall, this project demonstrates the effective use of **Power BI, DAX-based KPIs, and interactive visualizations** to transform raw retail data into meaningful insights. It highlights practical skills in data modeling, dashboard design, and business analytics, supporting data-driven decision-making.
